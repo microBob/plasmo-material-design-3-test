@@ -11,6 +11,7 @@
     "package": "plasmo package"
   },
   "dependencies": {
+    "@material/web": "^1.0.0-pre.8",
     "plasmo": "0.72.0",
     "vue": "^3.3.4"
   },
